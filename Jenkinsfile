@@ -17,7 +17,7 @@ pipeline {
                 echo 'Deploying the App'
             }
         }
-        stage('Test'){
+        stage('Test AGAIN'){
             steps{
                 echo 'TESTING'
             }
